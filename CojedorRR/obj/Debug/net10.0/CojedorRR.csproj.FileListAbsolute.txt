@@ -1,0 +1,14 @@
+C:\Users\AINZ Internet Shop\CojedorRR\bin\Debug\net10.0\CojedorRR.exe
+C:\Users\AINZ Internet Shop\CojedorRR\bin\Debug\net10.0\CojedorRR.deps.json
+C:\Users\AINZ Internet Shop\CojedorRR\bin\Debug\net10.0\CojedorRR.runtimeconfig.json
+C:\Users\AINZ Internet Shop\CojedorRR\bin\Debug\net10.0\CojedorRR.dll
+C:\Users\AINZ Internet Shop\CojedorRR\bin\Debug\net10.0\CojedorRR.pdb
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.AssemblyInfoInputs.cache
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.AssemblyInfo.cs
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.csproj.CoreCompileInputs.cache
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.dll
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\refint\CojedorRR.dll
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.pdb
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\CojedorRR.genruntimeconfig.cache
+C:\Users\AINZ Internet Shop\CojedorRR\obj\Debug\net10.0\ref\CojedorRR.dll
